@@ -1,10 +1,10 @@
-# 🗳️ SchoolVote Uganda
+# SchoolVote Uganda
 
 **SchoolVote Uganda** is a simple and secure web-based voting system designed specifically for schools in Uganda. The goal is to make student elections more transparent, easier to manage, and resistant to cheating — even in low-resource environments.
 
 ---
 
-## 🚀 Why This Project?
+## Why This Project?
 
 Many schools in Uganda still use **paper-based voting**, which is often:
 - Time-consuming
@@ -19,7 +19,7 @@ Many schools in Uganda still use **paper-based voting**, which is often:
 
 ---
 
-## 🛠️ Features (Planned / In Progress)
+## Features (Planned / In Progress)
 
 - ✅ Student login and voting interface  
 - ✅ Admin dashboard to manage candidates and view results  
@@ -29,7 +29,7 @@ Many schools in Uganda still use **paper-based voting**, which is often:
 
 ---
 
-## 📚 Tech Stack
+## Tech Stack
 
 - **HTML**, **CSS** and **JavaScript** – Frontend UI  
 - **Python** – Backend logic (coming soon)  
@@ -37,7 +37,7 @@ Many schools in Uganda still use **paper-based voting**, which is often:
 
 ---
 
-## 👨‍💻 Built By
+## Built By
 
 This project is being built by [@Otwiine](https://github.com/Otwiine) and [@Trojannetwork](https://github.com/Trojannetwork) (Lui) as part of a student developer initiative.
 
