@@ -21,11 +21,11 @@ Many schools in Uganda still use **paper-based voting**, which is often:
 
 ## Features (Planned / In Progress)
 
-- ✅ Student login and voting interface  
-- ✅ Admin dashboard to manage candidates and view results  
-- 🔒 Secure vote recording (1 vote per student)  
-- 📊 Real-time results tracking  
-- 📱 Mobile-friendly UI   
+- Student login and voting interface  
+- Admin dashboard to manage candidates and view results  
+- Secure vote recording (1 vote per student)  
+- Real-time results tracking  
+- Mobile-friendly UI   
 
 ---
 
