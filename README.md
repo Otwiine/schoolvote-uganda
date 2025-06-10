@@ -1,6 +1,6 @@
 # SchoolVote Uganda
 
-**SchoolVote Uganda** is a simple and secure web-based voting system designed specifically for schools in Uganda. The goal is to make student elections more transparent, easier to manage, and resistant to cheating — even in low-resource environments.
+**SchoolVote Uganda** is a simple and secure web-based voting system designed specifically for schools in Uganda. The goal is to make student elections more transparent, easier to manage, and resistant to cheating.
 
 ---
 
