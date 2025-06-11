@@ -40,6 +40,3 @@ Many schools in Uganda still use **paper-based voting**, which is often:
 ## Built By
 
 This project is being built by [@Otwiine](https://github.com/Otwiine) and [@Trojannetwork](https://github.com/Trojannetwork) (Lui) as part of a student developer initiative.
-
-We want to empower schools in Uganda with tools that are:
-- **Adaptable to any school setting**
