@@ -4,15 +4,20 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-  <title>TEST SCHOOL 001 - Vote</title>
+  <title>TEST SCHOOL 004 - Vote</title>
   <link rel="icon" type="image/png" href="/images/icons/icon_1.png">
   <link rel="stylesheet" href="/assets/styles.css" />
   <script defer src="/assets/script.js"></script>
 </head>
 <body>
+  <!-- Navigation with school logo -->
   <header>
     <nav>
-      <div><a class="logo" href="/index.html">School Vote Uganda</a></div>
+      <div class="logo-container">
+        <a href="https://testschool004.ac.ug" target="_blank" class="logo-link">
+          <img src="/images/school-logos/testschool004.png" alt="Test School 004 Logo" class="school-logo" />
+        </a>
+      </div>
       <ul>
         <li><a href="/index.html">Home</a></li>
         <li><a href="/about.html">About</a></li>
@@ -24,35 +29,40 @@
 
   <main class="school-page">
     <h1>TEST SCHOOL 004 - Candidate List</h1>
+
+    <!-- Candidate Profiles -->
     <section class="candidates">
-      <div class="candidate">
+      <div class="candidate hover-card">
         <img src="/images/students/joan.png" alt="Candidate 1" />
         <h3>Joan Namaganda</h3>
         <p>Manifesto: Promote anti-bullying initiatives, peace clubs, and student mentorship for leadership development.</p>
       </div>
-      <div class="candidate">
+
+      <div class="candidate hover-card">
         <img src="/images/students/brian.png" alt="Candidate 2" />
         <h3>Brian Tumusiime</h3>
         <p>Manifesto: Improve dorm lighting, play uplifting music during morning prep, and provide board games for relaxation.</p>
       </div>
-      <div class="candidate">
+
+      <div class="candidate hover-card">
         <img src="/images/students/hope.png" alt="Candidate 3" />
         <h3>Hope Nakato</h3>
         <p>Manifesto: Start a Girls Empowerment Club and ensure emergency sanitary pad availability for all girls.</p>
       </div>
     </section>
 
+    <!-- Voting Login -->
     <section class="login-section">
       <h2>Enter Your School Voting ID to Vote</h2>
       <form id="login-form">
-        <input type="text" id="student-id" placeholder="Enter ID" required />
+        <input type="text" id="student-id" placeholder="e.g. STU202504001" required />
         <button type="submit">Proceed to Vote</button>
       </form>
     </section>
   </main>
 
   <footer>
-    <p>&copy; School Vote UG. All rights reserved</p>
+    <p>&copy; School Vote UG. All rights reserved.</p>
   </footer>
 </body>
 </html>
